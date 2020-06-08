@@ -1,0 +1,16 @@
+{
+  "name": "exam3",
+  "version": "1.0.0",
+  "description": "'third question'",
+  "main": "app.js",
+  "scripts": {
+    "Start": "nodemon app.js"
+  },
+  "author": "kelvin",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
